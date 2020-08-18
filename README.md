@@ -6,4 +6,4 @@ This is the compiler CLI for the marlow code generation tool; the majority of th
 and generation of new code lives in [`marlow/marlow`].
 
 
-[`marlow/marlow`](https://github.com/marlow/marlow)
+[`marlow/marlow`]: https://github.com/marlow/marlow
